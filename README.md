@@ -6,5 +6,5 @@ sqlite3 를 통해 csv를 db 파일로 변경후 table내에 INTERGER 부분은 
 
 ## 작동사진
 
-![](C:\Users\kimmi\Desktop\고대 수업\과목26 1ㅡ.PNG)
 
+![과목26 1ㅡ](https://user-images.githubusercontent.com/89977637/140730753-2fcbca0c-b95e-457c-808a-ddf4b48d641e.PNG)
